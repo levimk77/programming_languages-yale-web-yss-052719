@@ -7,4 +7,5 @@ def reformat_languages(languages)
           :key => value
           :style => language
         }
+        new hash
 end
